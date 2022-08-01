@@ -1,4 +1,4 @@
-# AUTOMATED ATTENDANCE SYSTEM
+# Automated-Attendance-System-Python
 
 #### TEAM : INCOGNITO
 #### TEAM MEMBERS : 
