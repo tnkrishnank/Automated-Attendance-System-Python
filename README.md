@@ -1,17 +1,11 @@
 # Automated-Attendance-System-Python
 
-#### TEAM : INCOGNITO
-#### TEAM MEMBERS : 
-#### 20PC16 - HARISH NARAYAN B
-#### 20PC22 - NAVIN KRISHNA T
-#### 20PC37 - VETRIVEL M D
-
 ## SOLUTION PROPOSED
 The objective of the solution is to reduce proxying, reduce time and effort taken to record the attendance.
 The above mentioned objective is achieved by :
 <ul>
   <li>Verifying and authenticating the student identity</li>
-  <li>Veryfing the current location of the student</li>
+  <li>Verifyng the current location of the student</li>
 </ul>
 <b> Verification and authentication of student identity </b> is achieved using the <b> facial recognition </b> of the student along with
 their roll number. <br>
@@ -68,10 +62,3 @@ If the above mentioned verifications are successfully passed then the student is
   <li>Python Flask</li>
   <li>MongoDB</li>
 </ul>
-
-### SCREENSHOTS OF DATABASE
-<img src="BACKEND/dbimages/img1.png"/>
-<img src="BACKEND/dbimages/img2.png"/>
-<img src="BACKEND/dbimages/img3.png"/>
-<img src="BACKEND/dbimages/img4.png"/>
-<img src="BACKEND/dbimages/img5.png"/>
